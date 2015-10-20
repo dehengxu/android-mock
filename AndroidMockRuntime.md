@@ -1,0 +1,1 @@
+The AndroidMockRuntime.jar file contains the files necessary for running your tests that use Android Mock on the Android device/emulator. These are the only Android Mock files needed at runtime, apart from the mocks themselves.
